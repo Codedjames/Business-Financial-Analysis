@@ -49,10 +49,13 @@ These are the insights gotten from my analysis
    - Some strategies can be implemented to reduce expenses either by converting labor manpower to permanent staffs. Permanent staffs earn 50% less than Labor staffs.
    - New products should be introduced as well. Just to diversify the revenue stream
 
-2. The Sports equipment Business line was seen to be successful. One action I would recomment would be to leverage on this success by: 
+2. The Sports equipment Business line was seen to be successful. One action I would recommend would be to leverage on this success by: 
   - Invest in marketing and sales effort to expand the customer base
   - New products line should be introduced to further drive the revenue
   - One area to cut cost is the cost of Labor.
+
+## Dashboard Image
+<img width="3125" height="4000" alt="Untitled design" src="https://github.com/user-attachments/assets/729b9879-6deb-41cc-8f40-9ff375ecc619" />
 
 ## Conclusion
 In conclusion, the financial analysis reveals a mixed performance across the three business lines. While the Sports Equipment and Sportswear divisions demonstrated profitability, the Nutrition and Food Supplements segment incurred significant losses. To rectify this, a comprehensive review of the underperforming line is crucial to identify cost-saving measures and revenue-generating opportunities. A strategic focus on the successful Sports Equipment line, coupled with diversification efforts, can bolster overall business performance.
