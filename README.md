@@ -1,4 +1,5 @@
 # Business-Financial-Analysis
+I analyzed a dataset for a business that has three different product lines. I checked for the revenue, expenses, COGS, net profit, and profit margin across the business lines. 
 [Onyx Data #DataDNA challenge](https://onyxdata.co.uk/data-dna-dataset-challenge/)
 
 ## Introduction
